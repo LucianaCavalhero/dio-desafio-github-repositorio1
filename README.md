@@ -1,5 +1,5 @@
-# Desafio de projeto de git/github na Dio
-Reprositório para o desafio
+# Desafios da Dio
+Reprositório para o desafios do Bootcamp
 
 ## links úteis
 
